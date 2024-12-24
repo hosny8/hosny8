@@ -1,6 +1,6 @@
 # Mohamed Hosny  
 
-🚀 **Aspiring Software Developer** | 📚 **UC Berkeley EECS Student**  
+📚 **UC Berkeley EECS Student**  
 🔑 **Building scalable, secure, and optimized solutions.**  
 
 [![GitHub](https://img.shields.io/badge/GitHub-hosny8-blue)](https://github.com/hosny8)  
@@ -10,7 +10,7 @@
 
 ## 👋 About Me  
 
-I am a passionate software developer and UC Berkeley student pursuing a B.S. in Electrical Engineering & Computer Science (EECS). With a strong foundation in software development, system optimization, and cryptography, I enjoy building innovative and efficient solutions for complex challenges. My interdisciplinary experience spans multiple programming languages, frameworks, and concepts, empowering me to tackle diverse engineering problems.
+I am a passionate UC Berkeley student pursuing a B.S. in Electrical Engineering & Computer Science (EECS). With a strong foundation in software development, hardware development, system optimization, and cryptography, I enjoy building innovative and efficient solutions for complex challenges. My interdisciplinary experience spans multiple programming languages, frameworks, and concepts, empowering me to tackle diverse engineering problems.
 
 ---
 
@@ -32,7 +32,7 @@ Python, C, C++, Go, Java, JavaScript, SQL, Rust, Scheme, Assembly (RISC-V & x86)
 Git, AWS, Docker, Azure, IntelliJ IDEA, Neo4J, NumPy, PyTorch, Pandas  
 
 **Programming Concepts:**  
-Object-oriented programming, Data Structures, CPU Architecture, Data Science, ARM Architecture  
+Object-oriented programming, Data Structures, Dynamic Programming, CPU Architecture, Data Science, ARM Architecture  
 
 ---
 
