@@ -1,6 +1,6 @@
 # Mohamed Hosny  
 
- **UC Berkeley EECS Student**  
+ **UC Berkeley EECS**  
  **Building scalable, secure, and optimized solutions.**  
 
 [![GitHub](https://img.shields.io/badge/GitHub-hosny8-blue)](https://github.com/hosny8)  
@@ -10,7 +10,7 @@ mhosny@berkeley.edu | 📱 +1-510-219-3005
 
 ## About Me  
 
-I am a passionate UC Berkeley student pursuing a B.S. in Electrical Engineering & Computer Science (EECS). With a strong foundation in software development, hardware development, system optimization, and cryptography, I enjoy building innovative and efficient solutions for complex challenges. My interdisciplinary experience spans multiple programming languages, frameworks, and concepts, empowering me to tackle diverse engineering problems.
+I am a UC Berkeley student pursuing a B.S. in Electrical Engineering & Computer Science (EECS). With a strong foundation in software development, hardware development, system optimization, and cryptography, I enjoy building innovative and efficient solutions for complex challenges. My interdisciplinary experience spans multiple programming languages, frameworks, and concepts, empowering me to tackle diverse engineering problems.
 
 ---
 
