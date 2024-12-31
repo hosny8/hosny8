@@ -38,7 +38,7 @@ Object-oriented programming, Data Structures, Dynamic Programming, CPU Architect
 
 ## Key Projects  
 
-### 🌍 **Explorable World Engine**  
+### **Explorable World Engine**  
 - Built a 2D tile-based world engine in Java, generating interconnected rooms using graph search algorithms.  
 - Implemented pseudorandom generation with connectivity checks for dynamic layouts.  
 
@@ -94,7 +94,7 @@ settings to foster understanding and application of programming concepts
 
 ---
 
-## 🌟 Let's Connect!  
+## Let's Connect!  
 
 - Explore my projects: [GitHub](https://github.com/hosny8)  
 - Drop me an email: mhosny@berkeley.edu  
