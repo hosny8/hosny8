@@ -64,7 +64,7 @@ Object-oriented programming, Data Structures, Dynamic Programming, CPU Architect
 - Supported a subset of the RISC-V ISA, implementing instruction decoding, memory management, and ALU operations.  
 - Simulated and debugged the pipeline to execute assembly programs and validate CPU functionality.  
 
-### **CS 61C Project 4: Optimized Parallel Convolutions for Image Processing**  
+### **Optimized Parallel Convolutions for Image Processing**  
 - Implemented 2D convolution operations in C to process grayscale video frames, applying effects like blurring and sharpening.  
 - Optimized the naive solution using SIMD (Single Instruction, Multiple Data) intrinsics, achieving efficient parallel processing for vectorized operations.  
 - Incorporated OpenMP directives to enable multithreaded processing, significantly reducing runtime for large datasets.  
