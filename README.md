@@ -87,7 +87,7 @@ Object-oriented programming, Data Structures, Dynamic Programming, CPU Architect
 - Contributed to student success by clarifying fundamental software development concepts in lab settings.  
 
 ### **Computer Science Mentors (CSM)**  
-**Senior Advisor & Content Mentor** | Jan 2024 - Present  
+**Senior Mentor & Content** | Jan 2024 - Present  
 - Instructed students in linear algebra, circuit design, signal processing, control theory, and machine learning classification in small group
 settings to foster understanding and application of programming concepts 
 - Authored worksheets in LaTeX focusing on computer architecture, contributing to curriculum materials utilized by Berkeley Computer Science students.
