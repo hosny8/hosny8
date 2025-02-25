@@ -10,7 +10,7 @@ mhosny@berkeley.edu | (510)-219-3005
 
 ## About Me  
 
-I am a UC Berkeley student pursuing a B.S. in Electrical Engineering & Computer Science (EECS). With a strong foundation in software development, hardware development, system optimization, and cryptography, I enjoy building innovative and efficient solutions for complex challenges. My interdisciplinary experience spans multiple programming languages, frameworks, and concepts, empowering me to tackle diverse engineering problems.
+I am a UC Berkeley student pursuing a B.S. in Electrical Engineering & Computer Science (EECS). With a strong foundation in software development, hardware development, system optimization, and networking, I enjoy building innovative and efficient solutions for complex challenges. My interdisciplinary experience spans multiple programming languages, frameworks, and concepts, empowering me to tackle diverse engineering problems.
 
 ---
 
@@ -19,7 +19,7 @@ I am a UC Berkeley student pursuing a B.S. in Electrical Engineering & Computer 
 **University of California, Berkeley**  
 - **Major:** Electrical Engineering & Computer Sciences  
 - **Expected Graduation:** May 2026  
-- **Relevant Coursework:** CS 61A: Structure and Interpretation of Computer Programs, CS 61B: Data Structures, CS 61C: Computer Architecture, CS 70: Discrete Mathematics & Probability Theory, EECS 16A: Designing Information Systems and Devices I, EECS 16B: Designing Information Systems and Devices II, CS 161: Computer Security, CS 168: Internet Architecture & Protocols, CS 170: Algorithms, EECS 127: Optimization Models in Engineering 
+- **Relevant Coursework:** CS 61A: Structure and Interpretation of Computer Programs, CS 61B: Data Structures, CS 61C: Computer Architecture, CS 70: Discrete Mathematics & Probability Theory, EECS 16A: Designing Information Systems and Devices I, EECS 16B: Designing Information Systems and Devices II, CS 161: Computer Security, CS 168: Internet Architecture & Protocols, CS 170: Algorithms
 
 ---
 
