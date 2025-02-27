@@ -31,9 +31,6 @@ Python, C, C++, Go, Java, JavaScript, SQL, Rust, Scheme, Assembly (RISC-V & x86)
 **Tools & Technologies:**  
 Git, AWS, Docker, Azure, IntelliJ IDEA, Neo4J, NumPy, PyTorch, Pandas  
 
-**Programming Concepts:**  
-Object-oriented programming, Data Structures, Dynamic Programming, CPU Architecture, Data Science, ARM Architecture  
-
 ---
 
 ## Key Projects  
