@@ -75,7 +75,7 @@ Git, AWS, Docker, Azure, IntelliJ IDEA, Neo4J, NumPy, PyTorch, Pandas
 
 ---
 
-## Experience  
+## Teaching 
 
 ### **Academic Intern - UC Berkeley EECS**  
 **Lab Tutor** | Aug 2023 - May 2024  
