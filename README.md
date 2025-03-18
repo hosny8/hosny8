@@ -17,7 +17,7 @@ I am a UC Berkeley student pursuing a B.S. in Electrical Engineering & Computer 
 ## Education  
 
 **University of California, Berkeley**  
-- **Major:** Electrical Engineering & Computer Sciences  
+- **Major:** Electrical Engineering & Computer Science  
 - **Expected Graduation:** May 2026  
 - **Relevant Coursework:** CS 61A: Structure and Interpretation of Computer Programs, CS 61B: Data Structures, CS 61C: Computer Architecture, CS 70: Discrete Mathematics & Probability Theory, EECS 16A: Designing Information Systems and Devices I, EECS 16B: Designing Information Systems and Devices II, CS 161: Computer Security, CS 168: Internet Architecture & Protocols, CS 170: Algorithms, EECS 127: Optimization Models
 
