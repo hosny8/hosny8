@@ -29,7 +29,7 @@ I am a UC Berkeley student pursuing a B.S. in Electrical Engineering & Computer 
 Python, C, C++, Go, Java, JavaScript, SQL, Rust, Scheme, Assembly (RISC-V & x86), Cypher, Verilog  
 
 **Tools & Technologies:**  
-Git, AWS, GCP, Docker, Kubernetes, , Neo4J, TensorFlow, PyTorch, Cursor, Lovable, IntelliJ
+Git, AWS, GCP, Docker, Kubernetes, Neo4J, TensorFlow, PyTorch, Cursor, Lovable, CI/CD
 
 ---
 
