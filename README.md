@@ -10,7 +10,7 @@ mhosny@berkeley.edu | (510) 219-3005
 
 ## About Me  
 
-I am a UC Berkeley student pursuing a B.S. in Electrical Engineering & Computer Science (EECS). With a focus in computer systems: os, distributed systems, computer networking & security. I enjoy building innovative and efficient solutions for complex challenges. My interdisciplinary experience spans multiple programming languages, frameworks, and concepts, empowering me to tackle diverse engineering problems.
+I am a UC Berkeley student pursuing a B.S. in Electrical Engineering & Computer Science (EECS). With a focus in computer systems: os, distributed systems, computer networking & security. I enjoy building innovative and efficient solutions for complex challenges. My interdisciplinary experience spans multiple programming languages, frameworks, AI tools, and theory, empowering me to tackle diverse engineering problems.
 
 ---
 
