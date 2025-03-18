@@ -75,22 +75,6 @@ Git, AWS, Docker, Azure, IntelliJ IDEA, Neo4J, NumPy, PyTorch, Pandas
 
 ---
 
-## Teaching 
-
-### **Academic Intern - UC Berkeley EECS**  
-**Lab Tutor** | Aug 2023 - May 2024  
-- Provided hands-on tutoring in optimizing programs, debugging, and lab grading, especially for Python.  
-- Facilitated in-depth understanding of recursion, data structures, algorithm complexity, and object-oriented programming.  
-- Contributed to student success by clarifying fundamental software development concepts in lab settings.  
-
-### **Computer Science Mentors (CSM)**  
-**Senior Mentor & Content** | Jan 2024 - Present  
-- Instructed students in linear algebra, circuit design, signal processing, control theory, and machine learning classification in small group
-settings to foster understanding and application of programming concepts 
-- Authored worksheets in LaTeX focusing on computer architecture, contributing to curriculum materials utilized by Berkeley Computer Science students.
-
----
-
 ## Let's Connect!  
 
 - Explore my projects: [GitHub](https://github.com/hosny8)  
